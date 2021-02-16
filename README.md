@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Marketing & Pentesting Testing**
 
-- 💬 Ask me about **CyberSecurity**
+- 💬 Ask me about **Computer Science**
 
 - 📫 How to reach me **hossamibraheem2014@gmail.com**
 
