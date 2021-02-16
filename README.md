@@ -54,4 +54,6 @@
 
 </p>
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=hossamibraheem333&count_private=true&show_icons=true&include_all_commits=true&theme=light)
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hossamibraheem333&show_icons=true&locale=en&layout=compact" alt="ahmed777-android" /></p>
