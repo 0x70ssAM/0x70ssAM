@@ -11,13 +11,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/hossamibraheem1" target="blank">
+  
+  <a href="https://twitter.com/hossamibraheem1" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hossamibraheem1" height="30" width="40" /></a>
-
-<a href="https://linkedin.com/in/hossamibraheem" target="blank">
+  <a href="https://linkedin.com/in/hossamibraheem" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hossamibraheem" height="30" width="40" /></a>
-
-<a href="https://fb.com/hossamibraheem333" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="hossamibraheem333" height="30" width="40" /></a>
+  <a href="https://fb.com/hossamibraheem333" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="hossamibraheem333" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -37,7 +36,6 @@
 
 <a href="https://www.w3schools.com/cpp/" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C++_Logo.svg" alt="C++" width="40" height="40"/></a>
-
 
 <a href="https://www.python.org" target="_blank"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="40" height="40"/> </a>
