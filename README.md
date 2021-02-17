@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hossam Ibraheem</h1>
-<h3 align="center">A passionate Penetration Testing from Egypt</h3>
+<h3 align="center">A passionate Penetration Tester from Egypt</h3>
 
 <p align="left"> <a href="https://twitter.com/hossamibraheem1" target="blank"><img src="https://img.shields.io/twitter/follow/hossamibraheem1?logo=twitter&style=for-the-badge" alt="hossamibraheem1" /></a> </p>
 
