@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/hossamibraheem1" target="blank"><img src="https://img.shields.io/twitter/follow/hossamibraheem1?logo=twitter&style=for-the-badge" alt="hossamibraheem1" /></a> </p>
 
-- 🌱 I’m currently learning **Marketing & Pentesting Testing**
+- 🌱 I’m currently learning **Marketing & Penetration Testing**
 
 - 💬 Ask me about **Computer Science**
 
