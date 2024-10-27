@@ -21,8 +21,8 @@
 <p align="left">
 <a href="https://twitter.com/0x70ssAM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0x70ssAM" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hossamibraheem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hossamibraheem" height="30" width="40" /></a>
-<a href="https://fb.com/0x70ssAM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="0x70ssAM" height="30" width="40" /></a>
-<a href="https://instagram.com/0x70ssAM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="0x70ssAM" height="30" width="40" /></a>
+<a href="https://fb.com/hossamibraheem333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hossamibraheem333" height="30" width="40" /></a>
+<a href="https://instagram.com/hossamibraheem333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hossamibraheem333" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
